@@ -8,7 +8,7 @@ const T = new twit({
     access_token_secret: process.env.ACCESS_TOKEN_SECRET
 })
 
-console.log("Starting Tester of The Day Twitter Bot")
+console.log("Starting Hack This Fall Twitter Bot")
 
 // Utility function - Gives unique elements from an array
 function onlyUnique(value, index, self) {
